@@ -1,8 +1,8 @@
 🌍 **Connect** 
 
-* [mgh.space](https://mgh.space)
+* [Website](https://masoudgs.com)
 * **[Medium](https://medium.com/@masoudghorbani)**
-* **[LinkedIn](https://linkedin.com/in/msudgh)**
+* **[LinkedIn](https://linkedin.com/in/masoudgs)**
 
 ℹ️ **GitHub Stats & The Top Langs**
 
