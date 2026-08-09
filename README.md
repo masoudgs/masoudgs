@@ -10,5 +10,5 @@
 
 ℹ️ **GitHub Stats & The Top Langs**
 
-![Masoud Ghorbani's stats](https://github-readme-stats.vercel.app/api?username=msudgh&show_icons=true&border_color=2e4058)
-![Masoud Ghorbani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msudgh&show_icons=true&border_color=2e4058&layout=compact)
+![Masoud Ghorbani's stats](https://github-readme-stats.vercel.app/api?username=masoudgs&show_icons=true&border_color=2e4058)
+![Masoud Ghorbani's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudgs&show_icons=true&border_color=2e4058&layout=compact)
