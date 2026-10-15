@@ -9,9 +9,5 @@ Most of my professional work lives in private repositories; what’s here is too
 🌍 **Connect** 
 
 * **[Website](https://masoudgs.com)**
-* **[Medium](https://medium.com/@masoudghorbani)**
 * **[LinkedIn](https://linkedin.com/in/masoudgs)**
-
-ℹ️ **Languages**
-
-![Masoud's Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=masoudgs&show_icons=true&border_color=2e4058&layout=compact)
+* **[Medium](https://medium.com/@masoudghorbani)**
